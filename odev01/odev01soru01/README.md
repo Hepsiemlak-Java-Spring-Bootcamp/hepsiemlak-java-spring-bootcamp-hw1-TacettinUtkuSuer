@@ -7,4 +7,4 @@
 
 <center><b>Şekil 1. Kod çıktısı</b></center>
 
-![odev01soru01kodCiktisi](\sekiller\odev01soru01kodCiktisi.PNG)
+![odev01soru01kodCiktisi](https://github.com/Hepsiemlak-Java-Spring-Bootcamp/hepsiemlak-java-spring-bootcamp-hw1-TacettinUtkuSuer/blob/main/odev01/odev01soru01/sekiller/odev01soru01kodCiktisi.PNG)
