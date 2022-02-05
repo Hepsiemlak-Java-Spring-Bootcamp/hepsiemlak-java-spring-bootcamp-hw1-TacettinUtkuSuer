@@ -11,7 +11,7 @@
 
 <center><b>Şekil 1. UML diagramı</b></center>
 
-![odev1soru3uml](\sekiller\odev1soru3uml.png)
+![odev1soru3uml](https://github.com/Hepsiemlak-Java-Spring-Bootcamp/hepsiemlak-java-spring-bootcamp-hw1-TacettinUtkuSuer/blob/main/odev01/odev01soru03/sekiller/odev1soru3uml.png)
 
 - Sınıflar içerisinde il, ilan tipi gibi değişkenler de hata yapmamak adına enum sınıfları oluşturulmuştur. enum değişkenleri ekrana yazdırmak için Türkçe karakterleri de kullanabilmek adına String değerleri de atandı.
 - Her seferinde farklı bir ID atanabilmesi adına sıradan yeni ID atamaya yarayan bir metot kullanılmıştır. Normalde bu ID oluşturma metodunun tarih ve zamanın bir fonksiyonu olarak benzersiz yaratılması düşünülmüştür, kolay olması adına şimdilik sadece sırayla ID vermektedir.
@@ -23,5 +23,5 @@
 
 <center><b>Şekil 2. Kod çıktısı</b></center>
 
-![odev1soru3kodCiktisi](\sekiller\odev1soru3kodCiktisi.PNG)
+![odev1soru3kodCiktisi](https://github.com/Hepsiemlak-Java-Spring-Bootcamp/hepsiemlak-java-spring-bootcamp-hw1-TacettinUtkuSuer/blob/main/odev01/odev01soru03/sekiller/odev1soru3kodCiktisi.PNG)
 
