@@ -32,7 +32,7 @@ public class cocuk extends anne, baba{
 
 <center><b>Şekil 1. Diamond Problem</b></center>
 
-![elmasProblemi](\sekiller\elmasProblemi.PNG)
+![elmasProblemi](https://github.com/Hepsiemlak-Java-Spring-Bootcamp/hepsiemlak-java-spring-bootcamp-hw1-TacettinUtkuSuer/blob/main/odev01/odev01soru02/sekiller/elmasProblemi.PNG)
 
 
 
