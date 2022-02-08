@@ -1,0 +1,10 @@
+
+t	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Úã•¬úÿÿÿÿ
+t	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×ìèíúÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¶¢ù«
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œ§²Ûşÿÿÿÿ
+a
+java:S2386"?Move "yayinladigiIlanlarId" to a class and lower its visibility(ÿÊâÍÿÿÿÿÿ8–œ€Ôì/
+Z
+java:S2386"8Move "mesajKutusuId" to a class and lower its visibility(î¹àÄùÿÿÿÿ8–œ€Ôì/

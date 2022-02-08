@@ -1,0 +1,23 @@
+
+O
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(‚­ñîıÿÿÿÿ
+>
+java:S1125"(Remove the unnecessary boolean literals.(â©­¾
+E
+java:S2200"/Only the sign of the result should be examined.(â©­¾
+J
+java:S2864'"4Iterate over the "entrySet" instead of the "keySet".(¥˜İö
+O
+java:S28641"4Iterate over the "entrySet" instead of the "keySet".(ÔÆ”¤şÿÿÿÿ
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8ˆ°ŸÚì/
+N
+java:S1068"8Remove this unused "kurumsalKullanicilar" private field.(íœÑÁ
+i
+java:S1192P"SDefine a constant instead of duplicating this literal "Bekara kiralÄ±k!!!" 3 times.(Å® Ç
+k
+java:S1192M"UDefine a constant instead of duplicating this literal "Kelepir fiyatÄ±na..." 4 times.(ü…˜ü
+n
+java:S1192O"XDefine a constant instead of duplicating this literal "Ã–ÄŸrenciye kiralÄ±k!!!" 3 times.(™³âò
+Q
+java:S49732"<Strings and Boxed types should be compared using "equals()".(Ÿ„o

@@ -1,0 +1,8 @@
+
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÉüĞô
+W
+java:S2386":Move "favoriIlanlarId" to a class and lower its visibility(ÃÌ•8 Ôì/
+‰
+java:S1319"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(üÜ¶@8ıëîİì/
+Œ
+java:S1319"jThe type of "favoriIlanlar" should be an interface such as "Set" rather than the implementation "HashSet".(’ï¢Ùÿÿÿÿÿ8şëîİì/
